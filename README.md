@@ -6,7 +6,7 @@ A very basic boilerplate to start node projects that compile with babel.
 + Babel to transpile
 + ES2015 preset
 + Mocha to test, chai to assert
-+ babel-rewire to mock
++ babel-rewire to dependency inject
 + eslint for linting
 
 ## How-to
